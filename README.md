@@ -1,7 +1,7 @@
-Nama        : Eka Bintang Wicaksono<br>
-NIM         : H1D023054<br>
-Shift lama  : B<br>
+Nama        : PRASETYO ANGGA PERMANA<br>
+NIM         : H1D023028<br>
+Shift lama  : A<br>
 Shift Baru  : A<br>
-Tugas       : 1 Pertemuan 2<br>
+Tugas       : 2 Pertemuan 3<br>
 
 ![Tampilan Utama](screenshots/Tampilan_Aplikasi.png)
