@@ -4,4 +4,4 @@ Shift lama  : A<br>
 Shift Baru  : A<br>
 Tugas       : 2 Pertemuan 3<br>
 
-![Tampilan Utama](screenshots/Tampilan_Aplikasi.png)
+![Tampilan Utama](screenshots/tampilan-tugas-2.png)
