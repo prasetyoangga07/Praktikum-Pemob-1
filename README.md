@@ -4,7 +4,7 @@ Shift Lama : A<br>
 Shift Baru : A<br>
 
 #Tugas 3 Pertemuan 4#
-- (screenshot/tugas-3.png)
-- [![Demo] (https://youtu.be/asTsev7Mowc)
+![Tampilan Utama](screenshots/tugas-3.png)
+[![Demo] (https://youtu.be/asTsev7Mowc)
 
 
