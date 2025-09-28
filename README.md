@@ -1,10 +1,10 @@
-Nama : Prasetyo Angga Permana
-NIM : H1D023028
-Shift Lama : A
-Shift Baru : A
+Nama : Prasetyo Angga Permana<br>
+NIM : H1D023028<br>
+Shift Lama : A<br>
+Shift Baru : A<br>
 
 #Tugas 3 Pertemuan 4#
-- <img src="screenshot/tugas-3.png" width="300"/>
+- (screenshot/tugas-3.png)
 - [![Demo] (https://youtu.be/asTsev7Mowc)
 
 
